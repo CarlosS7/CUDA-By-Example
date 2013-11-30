@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-2-1_HelloWorld", "3-2-1_HelloWorld\3-2-1_HelloWorld.vcxproj", "{61C9466E-2AE3-4481-AD21-5C2DD7675CCE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-2-2_KernelCall", "3-2-2_KernelCall\3-2-2_KernelCall.vcxproj", "{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3-2-3_PassingParameters", "3-2-3_PassingParameters\3-2-3_PassingParameters.vcxproj", "{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +23,22 @@ Global
 		{61C9466E-2AE3-4481-AD21-5C2DD7675CCE}.Release|Win32.Build.0 = Release|Win32
 		{61C9466E-2AE3-4481-AD21-5C2DD7675CCE}.Release|x64.ActiveCfg = Release|x64
 		{61C9466E-2AE3-4481-AD21-5C2DD7675CCE}.Release|x64.Build.0 = Release|x64
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Debug|Win32.Build.0 = Debug|Win32
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Debug|x64.ActiveCfg = Debug|x64
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Debug|x64.Build.0 = Debug|x64
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Release|Win32.ActiveCfg = Release|Win32
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Release|Win32.Build.0 = Release|Win32
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Release|x64.ActiveCfg = Release|x64
+		{28DD02DB-9588-468E-9D72-CBA0C0DCFBE5}.Release|x64.Build.0 = Release|x64
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Debug|Win32.Build.0 = Debug|Win32
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Debug|x64.ActiveCfg = Debug|x64
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Debug|x64.Build.0 = Debug|x64
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Release|Win32.ActiveCfg = Release|Win32
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Release|Win32.Build.0 = Release|Win32
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Release|x64.ActiveCfg = Release|x64
+		{38F46EA7-BCEB-4AA0-822F-3BD6E8D8B525}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
